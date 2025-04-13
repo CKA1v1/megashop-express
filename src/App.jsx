@@ -4,7 +4,7 @@ const products = [
   {
     id: 1,
     name: 'Mini Projecteur Portable',
-    price: 49.99,
+    price: 109.99,
     image: 'https://images.unsplash.com/photo-1581291518857-4e27b48ff24e',
   },
   {
